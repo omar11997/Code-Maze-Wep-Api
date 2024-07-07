@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UltimateBook_MiddleWare.props" />
+</Project>

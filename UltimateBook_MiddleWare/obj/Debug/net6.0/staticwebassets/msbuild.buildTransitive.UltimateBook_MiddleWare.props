@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UltimateBook_MiddleWare.props" />
+</Project>

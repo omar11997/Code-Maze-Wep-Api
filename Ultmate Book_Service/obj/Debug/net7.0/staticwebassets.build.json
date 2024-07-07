@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "w2n7y0T3rkAnY6QeWM4k4zhKmpzGp9EfTBfyaM/D76o=",
+  "Source": "Ultmate Book",
+  "BasePath": "_content/Ultmate Book",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ultmate Book\\wwwroot",
+      "Source": "Ultmate Book",
+      "ContentRoot": "D:\\Web API\\Ultmate Book Projects\\Ultmate Book_Service\\wwwroot\\",
+      "BasePath": "_content/Ultmate Book",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

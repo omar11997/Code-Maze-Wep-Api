@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pPjPfiPtfwDKkLariDbPymmCq7zuRJCxI3274Ja0mLcJtE2i7YJSwB92DMDHACMC6/Yf3EqwRifUySdqmfqOHw==",
+  "success": true,
+  "projectFilePath": "D:\\Web API\\Ultmate Book Projects\\UltimateBook_MiddleWare\\UltimateBook_MiddleWare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oramadan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\oramadan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\oramadan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\oramadan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\oramadan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\oramadan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
